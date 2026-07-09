@@ -1,6 +1,6 @@
 # StacksIndex
 
-> Sample project for the LAB Open Source Builders Fund. This is a reference archetype showing what a Bitcoin Developer Tooling submission can look like. It is intentionally minimal so builders can see the shape of a fundable project without copying production code.
+> Submitted to the LAB Open Source Builders Fund. This is a reference archetype showing what Bitcoin Developer Tooling is. It is intentionally minimal so builders can see the shape of a fundable project without copying production code.
 
 A lightweight open indexer for Stacks smart contracts. Fetches contract state, decodes events, and provides a queryable interface for developers building on Stacks.
 
@@ -73,4 +73,4 @@ MIT
 
 ## Fund attribution
 
-Built as a sample archetype for the [LAB Open Source Builders Fund](https://artizen.fund/index/mf/lab-open-source-builders-fund).
+Built for the [LAB Open Source Builders Fund](https://artizen.fund/index/mf/lab-open-source-builders-fund).
